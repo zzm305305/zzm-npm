@@ -1,0 +1,19 @@
+{
+  "name": "zzhang",
+  "version": "1.0.0",
+  "description": "zzhang npm test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zzhang",
+    "npm"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zzm305305/zzm-npm"
+  },
+  "author": "zzhang",
+  "license": "ISC"
+}
